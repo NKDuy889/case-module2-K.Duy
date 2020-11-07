@@ -1,0 +1,69 @@
+
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(ı­Åù8ÏïéïÙ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¶‡ø8öíöôÙ.
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ëÿÁ8ÏïéïÙ.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(ÁÿÍş8ŒÈ¯õÙ.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(ºŸˆ8ÏïéïÙ.
+n
+java:S1192€"KDefine a constant instead of duplicating this literal "Enter id: " 8 times.(“ÜšÎúÿÿÿÿ8İ£šìÙ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¾š£Â8ÏïéïÙ.
+s
+java:S2095Ñ"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8İ£šìÙ.
+V	java:S106ï"9Replace this use of System.out or System.err by a logger.(Ûƒş‰8ÏïéïÙ.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(ºŸˆ8ÏïéïÙ.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(¼¤æ¯8ÏïéïÙ.
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(ïíÑØÿÿÿÿÿ8ÏïéïÙ.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(–ª‹Œ8ÏïéïÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñª¨ıúÿÿÿÿ8ÏïéïÙ.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(²¨ç÷8“ƒùôÙ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¼¤æ¯8ÏïéïÙ.
+[	java:S106å"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+Q
+java:S1128
+"/Remove this unused import 'java.time.MonthDay'.(Í²­·ûÿÿÿÿ8ŒÈ¯õÙ.
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ8ÏïéïÙ.
+r
+java:S2095Ù"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8İ£šìÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À—Êıÿÿÿÿ8ÏïéïÙ.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+>	java:S131H""Add a default case to this switch.(á»Ÿë8ÏïéïÙ.
+C	java:S131""Add a default case to this switch.(¶ˆ¶‰ûÿÿÿÿ8ÏïéïÙ.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ8ÏïéïÙ.
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+m
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(¼œóÛüÿÿÿÿ8İ£šìÙ.
+j
+java:S1192„"LDefine a constant instead of duplicating this literal "Rename to: " 5 times.(ºŸˆ8İ£šìÙ.
+U	java:S106é"9Replace this use of System.out or System.err by a logger.(¡½«8ÏïéïÙ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ8ÏïéïÙ.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ºŸˆ8ÏïéïÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Öÿ›ğşÿÿÿÿ8ÏïéïÙ.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(œ•é‹8ÏïéïÙ.
+p
+java:S2095Ø"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(—¤Ô¤ıÿÿÿÿ8ªÉ¼Ù.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ºŸˆ8ÏïéïÙ.
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(”éÁÓ8öíöôÙ.
+l
+java:S2095Ğ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(€İù“8ÍÑ‰³Ù.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÄø}8ÏïéïÙ.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ÏîÅ§8ÏïéïÙ.
+C	java:S1312""Add a default case to this switch.(¼œóÛüÿÿÿÿ8ÏïéïÙ.
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(ÎÎ«º8¹ âôÙ.
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(çÃãèüÿÿÿÿ8ÏïéïÙ.
+K	java:S108•")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8úš§õÙ.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(ºŸˆ8ÏïéïÙ.
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(œ•é‹8ÏïéïÙ.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ÜŠ¿½ıÿÿÿÿ8ÏïéïÙ.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ÌÙÌÃ8ÏïéïÙ.
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(Š¹™8¹ÕğóÙ.
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ÏïéïÙ.
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¶ˆ¶‰ûÿÿÿÿ8İ£šìÙ.
+Z
+java:S1117Š"<Rename "calendar" which hides the field declared at line 17.(£„Ş£8¹ÕğóÙ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(óÿ¹‰üÿÿÿÿ8ÏïéïÙ.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ÛŸ»­ıÿÿÿÿ8ÏïéïÙ.

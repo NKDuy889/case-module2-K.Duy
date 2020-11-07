@@ -1,0 +1,10 @@
+
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Your choice: " 3 times.(ïÂãÎùÿÿÿÿ8ï÷²²Ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïÂãÎùÿÿÿÿ8È²²Ù.
+E	java:S108R")Either remove or fill this block of code.(”ı¾8à’åôÙ.
+C	java:S131.""Add a default case to this switch.(ªÙÒéøÿÿÿÿ8ÖĞŸ°Ù.
+>	java:S131""Add a default case to this switch.(¨ÕÉ8²‡¿”Ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïÂãÎùÿÿÿÿ8Œ¢×”Ù.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ïÂãÎùÿÿÿÿ8ÖĞŸ°Ù.
+C	java:S131""Add a default case to this switch.(­’äúÿÿÿÿ8Äµ²Ù.
